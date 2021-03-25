@@ -10,6 +10,10 @@
 	<header>헤더 입니다
 		<div>회원가입</div>
 		<div>about</div>
+		<div>관리자</div>
+=======
+		<div>관리자</div>
+>>>>>>> branch 'master' of https://github.com/jungeulyoung90/Project_Alpha.git
 	</header>
 	<article>본문 입니다
 		<section>기사1</section>
